@@ -1,13 +1,27 @@
-# Kodilla task with express.js end handlebars
+# Personal page
 
-Node.js server with some endpoints using handlebars.Playground.
+#### Tech stack: Node.js, Express.js, Handlebars, Js
 
-## Installation
+#### The idea was:
+
+1. to make simple page with handlebars
+2. make some endpoints
+3. create contact form with file upload
+
+Not yet deployed.
+
+#### Installation
 
 First clone repo.
-Next:
-`npm install`
+
+Next in root folder:
+
+`npm install` - this will install all dependencies
+
 And then run:
-`node server.js`
-In browser:
-http://localhost:8000`
+
+`npm start` - this will start Node server with app.
+
+And in the browser:
+
+`http://localhost:8000/`
